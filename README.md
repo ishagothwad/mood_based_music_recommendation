@@ -9,7 +9,7 @@ This web based app written in python will first scan your current emotion with t
 Create new project in pycharm and add above files. After that open terminal and run the following command. This will install all the modules needed to run this app. 
 
 ```bash
-  pip install -r requirements.txt
+ pip install -r .\requirements.txt
 ```
 
 To run the app, type following command in terminal. 
